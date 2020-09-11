@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "401765851209",
+    "firebase_url": "https://loboproject-834b5.firebaseio.com",
+    "project_id": "loboproject-834b5",
+    "storage_bucket": "loboproject-834b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401765851209:android:abc6b8a977471e71ad1f98",
+        "android_client_info": {
+          "package_name": "com.appsoccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401765851209-f1kje0dabr47lgq4n8kl61u1lv89pbob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkw84DgUU4342fYIpOWIk5J2r6gwrlrBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401765851209-f1kje0dabr47lgq4n8kl61u1lv89pbob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "401765851209-dprtf4jbcjcaorgb8d7jd01gkk8jlosu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.soccer.Appsoccer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
